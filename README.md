@@ -4,24 +4,24 @@
 🌍 Learning Laravel & Vue.js  </br>
 💡 Passionate About Web Development </br>
 
-🔹 About Me </br>
+#🔹 About Me </br>
 I'm a web development enthusiast with a solid foundation in HTML, CSS, and JavaScript. Currently, I’m expanding my skills by learning Laravel (PHP) and Vue.js during my SIWES internship at EDUTAMS. I love building web applications, solving problems, and exploring new technologies. </br>
 
-🛠️ Technologies & Tools </br>
+# 🛠️ Technologies & Tools </br>
 Frontend: HTML, CSS, JavaScript, Vue.js (beginner) </br>
 
 Backend: PHP, Laravel (beginner) </br>
 
 Other: Git, GitHub, MySQL </br>
 
-📌 What I'm Working On </br>
+# 📌 What I'm Working On </br>
 Learning Laravel for backend development </br>
 
 Exploring Vue.js for dynamic frontend experiences </br>
 
 Building projects to apply my new skills </br>
 
-📫 Connect With Me </br>
+# 📫 Connect With Me </br>
 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/oluwanifemi-akpors-63470b256/) </br>
 
 GitHub: Your GitHub Profile  </br>
