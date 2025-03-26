@@ -1,5 +1,4 @@
-## Hi there 👋
-# Hello!, I'm Tega
+## Hello!, I'm Tega
 
 🚀 Aspiring Software Developer  </br>
 🌍 Learning Laravel & Vue.js  </br>
