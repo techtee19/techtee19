@@ -24,7 +24,7 @@ Building projects to apply my new skills </br>
 # 📫 Connect With Me </br>
 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/oluwanifemi-akpors-63470b256/) </br>
 
-GitHub: Your GitHub Profile  </br>
+GitHub: Your https://github.com/techtee19  </br>
 
 Email: devtee@gmail.com </br>
 
