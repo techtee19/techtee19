@@ -14,6 +14,7 @@ Welcome to my corner of GitHub, where creativity meets code! I’m a front-end e
 
 ### 🔥 Streak Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tecgtee19&theme=dark)](https://git.io/streak-stats)
+
 ## 🌟 Highlights
 
 - 🎓 **Education**: Third‑year Software Engineering student at Mountain Top University.
