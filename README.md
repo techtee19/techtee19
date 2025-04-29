@@ -9,11 +9,11 @@ Welcome to my corner of GitHub, where creativity meets code! I’m a front-end e
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,next,typescript,python,stackoverflow,vite,vscode,linkedin,git,github,figma&theme=dark)](https://skillicons.dev)
 
 ### 📈 GitHub Stats
-![My Stats](https://github-readme-stats.vercel.app/api?username=samdahboss&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samdahboss&layout=compact&langs_count=20&theme=vue-dark&hide_border=true)](https://github.com/samdahboss/github-readme-stats)
+![My Stats](https://github-readme-stats.vercel.app/api?username=techtee19&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techtee19&layout=compact&langs_count=20&theme=vue-dark&hide_border=true)](https://github.com/techtee19/github-readme-stats)
 
 ### 🔥 Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tecgtee19&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=techtee19&theme=dark)](https://git.io/streak-stats)
 
 ## 🌟 Highlights
 
@@ -72,9 +72,9 @@ const samuel = {
   Taking moments for gratitude and mindfulness to recharge and stay grounded.
 
 ## 📫 How to reach me:
-- Email: [samuelolawumi65@gmail.com]
+- Email: [techtee19@gmail.com]
 - LinkedIn: [https://www.linkedin.com/in/WumiCodes]
-- Phone Number: +234 70 6809 0383
+- Phone Number: +234 70 25271238
 
 <div align="center">
 
