@@ -13,8 +13,7 @@ Welcome to my corner of GitHub, where creativity meets code! I’m a front-end e
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samdahboss&layout=compact&langs_count=20&theme=vue-dark&hide_border=true)](https://github.com/samdahboss/github-readme-stats)
 
 ### 🔥 Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samdahboss&theme=vue-dark)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tecgtee19&theme=dark)](https://git.io/streak-stats)
 ## 🌟 Highlights
 
 - 🎓 **Education**: Third‑year Software Engineering student at Mountain Top University.
