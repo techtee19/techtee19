@@ -17,15 +17,15 @@ Welcome to my corner of GitHub, where creativity meets code! I’m a front-end e
 
 ## 🌟 Highlights
 
-- 🎓 **Education**: Third‑year Software Engineering student at Mountain Top University.
+- 🎓 **Education**: Third‑year Computer Science student at Federal University of Agriculture Abeokuta.
 - 💼 **Internships**: Gaining hands‑on experience at **Edutams** as a Fullstack Development Intern.
 - 🎨 **Skills**: Frontend Development Expertise with React.js, Next.js and Typescript & Exploring Express.js for Backend Development.
-- 🤝 **Collaboration**: Teamwork at **TekkTopia** and brainstorming at **MTU STEM** to solve community challenges.
+- 🤝 **Collaboration**: Teamwork at NACOS to build a new application for the newly created colledge of computing at FUNAAB.
 
 ## 🛠️ Who am I?
 
 ```js
-const samuel = {
+const Tega = {
   role: "Frontend Developer",
   techStack: [
     "HTML5", "CSS3", "JavaScript", "React", "Next.js", "TypeScript", "TailwindCSS",
@@ -36,14 +36,14 @@ const samuel = {
 };
 ```
 ## 🔭 I’m currently:
-- Collaborating with other Developers to build websites at TekkTopia
+- Collaborating with other Developers to build websites at FUNAAB
 - Learning as a Fullstack Development intern at Edutams
-- Studying Software Engineering (3rd year) at Mountain Top University
+- Studying Software Engineering (3rd year) at Federa University of Agriculture Abeokuta
 - Researching and Brainstorming with other students at MTU STEM community to develop solutions to problems in our immediate community.
 
 ## 🌱 I’m currently learning:
 - Advanced JavaScript concepts and frameworks.
-- Express.js, Laravel, Vue.js
+- Express.js, Laravel, Vue.js, TypeScript
 - Backend development to become a full-stack developer.
 - Exploring new front-end technologies to enhance my design and development skills.
 
@@ -59,21 +59,21 @@ const samuel = {
 
 ## 🌴 When I’m Not Coding
 
-- 🎚️ **Sound Engineering**  
-  Tinkering with audio mixers and EQs to craft crisp, immersive soundscapes.
+- 🎚️ **Music**  
+  Love playing the piano in my free time.
 
 - 🏎️ **Car Racing Games**  
   Hitting the virtual track for high‑speed laps and drifting challenges.
 
-- ♟️ **Playing Chess**  
-  Sharpening my strategic thinking one checkmate at a time.
+- 🏀 **Playing Basketball**  
+  Hooping with the homies — best kind of therapy..
 
 - **Praying & Reflection**  
   Taking moments for gratitude and mindfulness to recharge and stay grounded.
 
 ## 📫 How to reach me:
 - Email: [techtee19@gmail.com]
-- LinkedIn: [https://www.linkedin.com/in/WumiCodes]
+- LinkedIn: [(https://www.linkedin.com/in/oluwanifemi-akpors-63470b256/)]
 - Phone Number: +234 70 25271238
 
 <div align="center">
